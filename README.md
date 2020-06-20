@@ -34,8 +34,7 @@ git clone https://github.com/4lexRossi/Market_App.git
 expo start
 ```
 
-video da aplicação funcionando
-[Clique aqui]()
+
 
 <h1 align="center">Oi quer ser meu Amigo</h1>
 <p align="center">

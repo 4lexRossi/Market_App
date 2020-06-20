@@ -9,14 +9,14 @@ import "firebase/auth";
 
 // Initialize Firebase
 const firebaseConfig = {
-        apiKey: "AIzaSyCM3YpDc4sWiydsmyYm9-s5q_rdMQa_QEk",
-        authDomain: "lex-labs-koixoi.firebaseapp.com",
-        databaseURL: "https://lex-labs-koixoi.firebaseio.com",
-        projectId: "lex-labs-koixoi",
-        storageBucket: "lex-labs-koixoi.appspot.com",
-        messagingSenderId: "7599219964",
-        appId: "1:7599219964:web:d1ef536854827662b1e379",
-        measurementId: "G-EDC2WWS7SH"
+        apiKey: "---",
+        authDomain: "---",
+        databaseURL: "---",
+        projectId: "---",
+        storageBucket: "---",
+        messagingSenderId: "---",
+        appId: "---",
+        measurementId: "---"
 };
 
 firebase.initializeApp(firebaseConfig);
